@@ -152,7 +152,7 @@ body {
   text-transform: capitalize;
   color: #2a2a2a;
   font-weight: 700;
-  letter-spacing: 0.25px;
+  letter-spacing: 0.1px;
   position: relative;
   z-index: 2;
   line-height: 44px;
@@ -879,23 +879,28 @@ Banner Style
   font-weight: 700;
   color: #2a2a2a;
   line-height: 72px;
+  text-transform: lowercase;
 }
 
 .main-banner .item h2 em {
   color: #03a4ed;
   font-style: normal;
+  
 }
 
 .main-banner .item h2 span {
   color: #ff1616;
+  text-transform: lowercase;
 }
 
 .main-banner .item p {
   margin: 20px 0px;
+ 
 }
 
 .main-banner .item .down-buttons {
   display: inline-flex;
+  text-transform: lowercase;
 }
 
 .main-banner .item .down-buttons .call-button i {
