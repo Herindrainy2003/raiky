@@ -880,6 +880,7 @@ Banner Style
   color: #2a2a2a;
   line-height: 72px;
   text-transform: lowercase;
+ 
 }
 
 .main-banner .item h2 em {
@@ -890,7 +891,7 @@ Banner Style
 
 .main-banner .item h2 span {
   color: #ff1616;
-  text-transform: lowercase;
+ 
 }
 
 .main-banner .item p {
@@ -900,7 +901,7 @@ Banner Style
 
 .main-banner .item .down-buttons {
   display: inline-flex;
-  text-transform: lowercase;
+  
 }
 
 .main-banner .item .down-buttons .call-button i {
